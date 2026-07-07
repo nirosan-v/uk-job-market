@@ -57,11 +57,10 @@ uk-job-market/
 ├── images/
 ├── sql/
 │   ├── 01_create_tables.sql
-│   ├── 02_create_views.sql
-│   ├── 03_data_validation.sql
-│   ├── 04_skills_analysis.sql
-│   ├── 05_location_analysis.sql
-│   └── 06_job_title_analysis.sql
+│   ├── 02_views.sql
+│   ├── 03_top_skills.sql
+│   ├── 04_top_locations.sql
+│   └── 05_top_titles.sql
 │
 └── README.md
 ```
